@@ -13,3 +13,6 @@ selinux - отключает selinux и перезагружает сервер.
     Далее запускаем сам playbook (nginx.yml)
 
 ansible-playbook nginx.yml - исполняет все tasks файлы всех ролей, которые у нас прописаны. 4) В браузере в строке вписываем ipшник balacner'а ставим ":" и после пишем порт 8080.
+
+
+[sticker.webm](https://user-images.githubusercontent.com/113552449/231135767-936baa09-1827-463d-993d-40c64975d7a6.webm)
